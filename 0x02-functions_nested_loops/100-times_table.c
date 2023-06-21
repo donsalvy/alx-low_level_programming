@@ -1,8 +1,3 @@
-
-salvation okafor
-14:11 (5 minutes ago)
-to me
-
 #include "main.h"
 
 /**
