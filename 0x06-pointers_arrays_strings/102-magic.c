@@ -1,9 +1,4 @@
 #include <stdio.h>
-/**
- * main- prints a[2] = 98
- *
- * Return:0
- */
 
 int main(void)
 {
@@ -26,4 +21,3 @@ p = &n;
 printf("a[2] = %d\n", a[2]);
 return (0);
 }
-
