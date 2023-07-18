@@ -3,7 +3,7 @@
 
 
 	/**
-	 *Struct dog:A dog's basic information
+	 *Struct Define a new type struct dog and gives the dogs information
 	 * @name: First member
 	 * @age: Second member
 	 * @owner: Third member
