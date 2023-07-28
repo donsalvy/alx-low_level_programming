@@ -7,13 +7,13 @@
  *
  * Return:The  number of elements in d
  */
-size_t list_len(const list_t *d)
+size_t list_len(const list_t *h)
 {
 size_t q = 0;
-while (d)
+while (h)
 {
 q++;
-d = d->next;
+h = h->next;
 }
 return (q);
 }
